@@ -1,0 +1,1203 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "拼图小游戏.App",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "创建主界面1",
+            "request": "launch",
+            "mainClass": "GUI练习.创建主界面1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "异常.异常的综合案例升级版.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "异常.异常的综合案例.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "抛出异常的例子",
+            "request": "launch",
+            "mainClass": "异常.抛出异常的例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "try遇到问题下面的代码是否执行的例子",
+            "request": "launch",
+            "mainClass": "异常.try遇到问题下面的代码是否执行的例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "try中异常没有被捕获的例子",
+            "request": "launch",
+            "mainClass": "异常.try中异常没有被捕获的例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "try中遇到多个问题的例子",
+            "request": "launch",
+            "mainClass": "异常.try中遇到多个问题的例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "try中没有遇到问题的例子",
+            "request": "launch",
+            "mainClass": "异常.try中没有遇到问题的例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "捕获异常例子",
+            "request": "launch",
+            "mainClass": "异常.捕获异常例子",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "编写带有接口和抽象类的标准Javabean类案例.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "编写带有接口和抽象类的标准Javabean类.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "编写带有抽象类的标准Javabean类.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "抽象类演示.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "多态.多态案例.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "多态.认识多态例子.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "static静态变量.继承.带有继承结构的Javabean类.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "static静态变量.继承.重写方法继承结构练习.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "static静态变量.继承.继承设计练习.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "static静态变量.static讲解.定义学生工具类.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "static静态变量.static讲解.定义数组工具类.Test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "static静态变量.static讲解.test",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "MainFunction",
+            "request": "launch",
+            "mainClass": "集合.综合案例.学生管理系统.MainFunction",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加手机对象并返回要求的数据",
+            "request": "launch",
+            "mainClass": "集合.综合案例.添加手机对象并返回要求的数据.添加手机对象并返回要求的数据",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加对象并判断是否存在返回索引",
+            "request": "launch",
+            "mainClass": "集合.综合案例.添加对象并判断是否存在返回索引.添加对象并判断是否存在返回索引",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加对象并判断是否存在",
+            "request": "launch",
+            "mainClass": "集合.综合案例.添加对象并判断是否存在.添加对象并判断是否存在",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加学生对象并遍历",
+            "request": "launch",
+            "mainClass": "集合.综合案例.学生对象遍历自控版.添加学生对象并遍历",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加学生对象并遍历",
+            "request": "launch",
+            "mainClass": "集合.综合案例.学生对象遍历.添加学生对象并遍历",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "添加数字并遍历",
+            "request": "launch",
+            "mainClass": "集合.综合案例.添加数字并遍历",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "集合的遍历方式",
+            "request": "launch",
+            "mainClass": "集合.综合案例.集合的遍历方式",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList讲解",
+            "request": "launch",
+            "mainClass": "集合.ArrayList讲解",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "返回最后一个单词的长度案例",
+            "request": "launch",
+            "mainClass": "综合案例.返回最后一个单词的长度案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "字符串乘积案例",
+            "request": "launch",
+            "mainClass": "综合案例.字符串乘积案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "验证码生成案例",
+            "request": "launch",
+            "mainClass": "综合案例.验证码生成案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "打乱字符串的内容",
+            "request": "launch",
+            "mainClass": "综合案例.打乱字符串的内容",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "调整字符串案例",
+            "request": "launch",
+            "mainClass": "综合案例.调整字符串案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "转换罗马数字案例",
+            "request": "launch",
+            "mainClass": "综合案例.转换罗马数字案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StringJoiner讲解",
+            "request": "launch",
+            "mainClass": "StringJoiner讲解",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "拼接字符串练习",
+            "request": "launch",
+            "mainClass": "拼接字符串练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "对称字符串练习",
+            "request": "launch",
+            "mainClass": "对称字符串练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder讲解",
+            "request": "launch",
+            "mainClass": "StringBuilder讲解",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "StringBuilder",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "鏁忔劅璇嶆浛鎹",
+            "request": "launch",
+            "mainClass": "鏁忔劅璇嶆浛鎹",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "敏感词替换",
+            "request": "launch",
+            "mainClass": "敏感词替换",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "身份证信息查看",
+            "request": "launch",
+            "mainClass": "身份证信息查看",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "手机号屏蔽案例",
+            "request": "launch",
+            "mainClass": "手机号屏蔽案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "金额转换",
+            "request": "launch",
+            "mainClass": "金额转换",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "字符串反转",
+            "request": "launch",
+            "mainClass": "字符串反转",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "拼接字符串案例",
+            "request": "launch",
+            "mainClass": "拼接字符串案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "统计字符次数案例",
+            "request": "launch",
+            "mainClass": "统计字符次数案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "遍历字符串案例",
+            "request": "launch",
+            "mainClass": "遍历字符串案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "案例1",
+            "request": "launch",
+            "mainClass": "案例1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StringComparison",
+            "request": "launch",
+            "mainClass": "StringComparison",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "StringDemo",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "String讲解",
+            "request": "launch",
+            "mainClass": "String讲解",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfoTest",
+            "request": "launch",
+            "mainClass": "综合训练.对象数组5.StudentInfoTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfoTest",
+            "request": "launch",
+            "mainClass": "面向对象.综合训练.对象数组5.StudentInfoTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "GirlFriendTest",
+            "request": "launch",
+            "mainClass": "综合训练.对象数组4.GirlFriendTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "三元运算符",
+            "request": "launch",
+            "mainClass": "三元运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "三元运算符练习1",
+            "request": "launch",
+            "mainClass": "三元运算符练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "三元运算符练习2",
+            "request": "launch",
+            "mainClass": "三元运算符练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "变量练习",
+            "request": "launch",
+            "mainClass": "变量练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "字符串加号的操作",
+            "request": "launch",
+            "mainClass": "字符串加号的操作",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "字符相加",
+            "request": "launch",
+            "mainClass": "字符相加",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "字面量",
+            "request": "launch",
+            "mainClass": "字面量",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "封装",
+            "request": "launch",
+            "mainClass": "封装",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数值拆分案例",
+            "request": "launch",
+            "mainClass": "数值拆分案例",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数据类型",
+            "request": "launch",
+            "mainClass": "数据类型",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数据类型案例1",
+            "request": "launch",
+            "mainClass": "数据类型案例1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数据类型案例2",
+            "request": "launch",
+            "mainClass": "数据类型案例2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数据类型案例3",
+            "request": "launch",
+            "mainClass": "数据类型案例3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组介绍",
+            "request": "launch",
+            "mainClass": "数组.数组介绍",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组元素访问",
+            "request": "launch",
+            "mainClass": "数组.数组元素访问",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组动态初始化",
+            "request": "launch",
+            "mainClass": "数组.数组动态初始化",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组常见操作_交换数组中的数据",
+            "request": "launch",
+            "mainClass": "数组.数组常见操作.数组常见操作_交换数组中的数据",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组常见操作_打乱数组中的数据",
+            "request": "launch",
+            "mainClass": "数组.数组常见操作.数组常见操作_打乱数组中的数据",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组常见操作_求最值",
+            "request": "launch",
+            "mainClass": "数组.数组常见操作.数组常见操作_求最值",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组常见操作_遍历数组求和",
+            "request": "launch",
+            "mainClass": "数组.数组常见操作.数组常见操作_遍历数组求和",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组常见问题",
+            "request": "launch",
+            "mainClass": "数组.数组常见问题",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组的动态初始化和静态初始化的区别",
+            "request": "launch",
+            "mainClass": "数组.数组的动态初始化和静态初始化的区别",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组的定义和静态初始化",
+            "request": "launch",
+            "mainClass": "数组.数组的定义和静态初始化",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组的遍历",
+            "request": "launch",
+            "mainClass": "数组.数组的遍历",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组练习1",
+            "request": "launch",
+            "mainClass": "数组.数组练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组练习2",
+            "request": "launch",
+            "mainClass": "数组.数组练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "数组练习3",
+            "request": "launch",
+            "mainClass": "数组.数组练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "斯坦福大学比较运算符练习",
+            "request": "launch",
+            "mainClass": "斯坦福大学比较运算符练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "斯坦福大学逻辑运算符练习",
+            "request": "launch",
+            "mainClass": "斯坦福大学逻辑运算符练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "什么是方法",
+            "request": "launch",
+            "mainClass": "方法.什么是方法",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法的格式",
+            "request": "launch",
+            "mainClass": "方法.方法的格式",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法的重载",
+            "request": "launch",
+            "mainClass": "方法.方法的重载",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习1",
+            "request": "launch",
+            "mainClass": "方法.方法练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习10",
+            "request": "launch",
+            "mainClass": "方法.方法练习10",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习11",
+            "request": "launch",
+            "mainClass": "方法.方法练习11",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习12",
+            "request": "launch",
+            "mainClass": "方法.方法练习12",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习2",
+            "request": "launch",
+            "mainClass": "方法.方法练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习3",
+            "request": "launch",
+            "mainClass": "方法.方法练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习4",
+            "request": "launch",
+            "mainClass": "方法.方法练习4",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习5",
+            "request": "launch",
+            "mainClass": "方法.方法练习5",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习6",
+            "request": "launch",
+            "mainClass": "方法.方法练习6",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习7",
+            "request": "launch",
+            "mainClass": "方法.方法练习7",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习8",
+            "request": "launch",
+            "mainClass": "方法.方法练习8",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法练习9",
+            "request": "launch",
+            "mainClass": "方法.方法练习9",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "方法重载练习",
+            "request": "launch",
+            "mainClass": "方法.方法重载练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "构造方法",
+            "request": "launch",
+            "mainClass": "构造方法",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "StudentTest",
+            "request": "launch",
+            "mainClass": "构造方法例子.StudentTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "标准javaBean",
+            "request": "launch",
+            "mainClass": "标准javaBean",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "比较运算符",
+            "request": "launch",
+            "mainClass": "比较运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "注释",
+            "request": "launch",
+            "mainClass": "注释",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1练习2",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1练习3",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1练习4",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1练习4",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构1练习5",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构1练习5",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构2",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构2练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构2练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构2练习2",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构2练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "分支结构2练习3",
+            "request": "launch",
+            "mainClass": "流程控制语句.分支结构2练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习2",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习3",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习4",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习4",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习5",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习5",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构1练习6",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构1练习6",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构2",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构2练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构2练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构2练习2",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构2练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构3",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构leetcode算法竞赛题1",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构leetcode算法竞赛题1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "循环结构leetcode算法竞赛题2",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环结构leetcode算法竞赛题2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "无限循环",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.无限循环",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "练习2leetcode算法竞赛题",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.练习2leetcode算法竞赛题",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "练习3leetcode算法竞赛题",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.练习3leetcode算法竞赛题",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "练习4",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.练习4",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "获取随机数",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.获取随机数",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "跳转控制语句",
+            "request": "launch",
+            "mainClass": "流程控制语句.循环高级.跳转控制语句",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "斯坦福大学分支结构1练习1",
+            "request": "launch",
+            "mainClass": "流程控制语句.斯坦福大学分支结构1练习1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "斯坦福大学分支结构1练习2",
+            "request": "launch",
+            "mainClass": "流程控制语句.斯坦福大学分支结构1练习2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "斯坦福大学分支结构1练习3",
+            "request": "launch",
+            "mainClass": "流程控制语句.斯坦福大学分支结构1练习3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "顺序结构",
+            "request": "launch",
+            "mainClass": "流程控制语句.顺序结构",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "特殊字符",
+            "request": "launch",
+            "mainClass": "特殊字符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "算术运算符",
+            "request": "launch",
+            "mainClass": "算术运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "算术运算符练习",
+            "request": "launch",
+            "mainClass": "算术运算符练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "算术运算符转换",
+            "request": "launch",
+            "mainClass": "算术运算符转换",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例1",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例1",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例2",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例2",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例3",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例3",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例4",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例4",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例5",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例5",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "综合案例6",
+            "request": "launch",
+            "mainClass": "综合案例.综合案例6",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "综合训练.对象数组1.ArrayTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "综合训练.对象数组2.CarTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "PhoneTest",
+            "request": "launch",
+            "mainClass": "综合训练.对象数组3.PhoneTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "GameTest",
+            "request": "launch",
+            "mainClass": "综合训练.文字版格斗游戏.GameTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "自增自减运算符",
+            "request": "launch",
+            "mainClass": "自增自减运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "自增自减运算符练习",
+            "request": "launch",
+            "mainClass": "自增自减运算符练习",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "类和对象",
+            "request": "launch",
+            "mainClass": "设计对象并使用.类和对象",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "PhoneTest(1)",
+            "request": "launch",
+            "mainClass": "设计对象并使用.类和对象例子.PhoneTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "类的几个补充注意事项",
+            "request": "launch",
+            "mainClass": "设计对象并使用.类的几个补充注意事项",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "GirlFriendTest",
+            "request": "launch",
+            "mainClass": "设计对象并使用.类的几个补充注意事项的例子.GirlFriendTest",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "赋值运算符",
+            "request": "launch",
+            "mainClass": "赋值运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "逻辑运算符",
+            "request": "launch",
+            "mainClass": "逻辑运算符",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "键盘录入",
+            "request": "launch",
+            "mainClass": "键盘录入",
+            "projectName": "Self-Study_34583556"
+        },
+        {
+            "type": "java",
+            "name": "键盘录入练习",
+            "request": "launch",
+            "mainClass": "键盘录入练习",
+            "projectName": "Self-Study_34583556"
+        }
+    ]
+}
